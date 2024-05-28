@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FAE32D73-5FA3-4600-8507-10252DBB738E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCCB89BC-BF34-404C-B518-9CEF1E952E21"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfinitePosts/Controllers/MainVC/MainViewController+TableView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "tableView(_:willDisplay:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05051955-523F-47A8-826B-EAC1C038DE35"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfinitePosts/Controllers/MainVC/MainViewController+TableView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "tableView(_:willDisplay:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD258507-53B5-47E8-9A80-928BED5A92B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfinitePosts/ViewModels/MainViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A378E4D4-6145-4016-B71D-8DC97E205E50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfinitePosts/ViewModels/MainViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4282D6F8-ECD3-4876-9B4C-420A0B60FF2F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfinitePosts/ViewModels/MainViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4282D6F8-ECD3-4876-9B4C-420A0B60FF2F - 8888aa87f7d346ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;InfinitePosts.TrendingPostsModel&gt;, InfinitePosts.NetworkError&gt;) -&gt; () in InfinitePosts.MainViewModel.getData() -&gt; ()"
+                  moduleName = "InfinitePosts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anshuvij/Documents/Swift/InfiniteScroll/InfinitePosts/ViewModels/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "4282D6F8-ECD3-4876-9B4C-420A0B60FF2F - 8888aa87f7d346ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;InfinitePosts.TrendingPostsModel&gt;, InfinitePosts.NetworkError&gt;) -&gt; () in InfinitePosts.MainViewModel.getData() -&gt; ()"
+                  moduleName = "InfinitePosts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anshuvij/Documents/Swift/InfiniteScroll/InfinitePosts/ViewModels/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "578A79F8-C3C7-41D2-9D6D-D4473E1C0216"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfinitePosts/ViewModels/MainViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "578A79F8-C3C7-41D2-9D6D-D4473E1C0216 - f86675bc08801696"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InfinitePosts.MainViewModel.getData() -&gt; ()"
+                  moduleName = "InfinitePosts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anshuvij/Documents/Swift/InfiniteScroll/InfinitePosts/ViewModels/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "578A79F8-C3C7-41D2-9D6D-D4473E1C0216 - 8888aa87f7d34627"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;InfinitePosts.TrendingPostsModel&gt;, InfinitePosts.NetworkError&gt;) -&gt; () in InfinitePosts.MainViewModel.getData() -&gt; ()"
+                  moduleName = "InfinitePosts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anshuvij/Documents/Swift/InfiniteScroll/InfinitePosts/ViewModels/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDE832A2-5D2E-4F51-BCED-E834B7AF011C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfinitePosts/Networking/APICaller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getTrendingMovies(startingAt:limit:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BDE832A2-5D2E-4F51-BCED-E834B7AF011C - eaba242f81d29ef3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static InfinitePosts.APICaller.getTrendingMovies(startingAt: Swift.Int, limit: Swift.Int, completionHandler: (Swift.Result&lt;Swift.Array&lt;InfinitePosts.TrendingPostsModel&gt;, InfinitePosts.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InfinitePosts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anshuvij/Documents/Swift/InfiniteScroll/InfinitePosts/Networking/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1552">
+               </Location>
+               <Location
+                  uuid = "BDE832A2-5D2E-4F51-BCED-E834B7AF011C - eaba242f81d29ed0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static InfinitePosts.APICaller.getTrendingMovies(startingAt: Swift.Int, limit: Swift.Int, completionHandler: (Swift.Result&lt;Swift.Array&lt;InfinitePosts.TrendingPostsModel&gt;, InfinitePosts.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InfinitePosts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anshuvij/Documents/Swift/InfiniteScroll/InfinitePosts/Networking/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  uuid = "BDE832A2-5D2E-4F51-BCED-E834B7AF011C - 35907ad786209f19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static InfinitePosts.APICaller.getTrendingMovies(startingAt: Swift.Int, limit: Swift.Int, completionHandler: (Swift.Result&lt;(Swift.Array&lt;InfinitePosts.TrendingPostsModel&gt;, Swift.Bool), InfinitePosts.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InfinitePosts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anshuvij/Documents/Swift/InfiniteScroll/InfinitePosts/Networking/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D45ECA0-C979-4B62-94CA-7C60C37ED40B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfinitePosts/Networking/APICaller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getTrendingMovies(startingAt:limit:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D45ECA0-C979-4B62-94CA-7C60C37ED40B - eaba242f81d29e31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static InfinitePosts.APICaller.getTrendingMovies(startingAt: Swift.Int, limit: Swift.Int, completionHandler: (Swift.Result&lt;Swift.Array&lt;InfinitePosts.TrendingPostsModel&gt;, InfinitePosts.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InfinitePosts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anshuvij/Documents/Swift/InfiniteScroll/InfinitePosts/Networking/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "3D45ECA0-C979-4B62-94CA-7C60C37ED40B - eaba242f81d29e31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static InfinitePosts.APICaller.getTrendingMovies(startingAt: Swift.Int, limit: Swift.Int, completionHandler: (Swift.Result&lt;Swift.Array&lt;InfinitePosts.TrendingPostsModel&gt;, InfinitePosts.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InfinitePosts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anshuvij/Documents/Swift/InfiniteScroll/InfinitePosts/Networking/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "3D45ECA0-C979-4B62-94CA-7C60C37ED40B - 35907ad786209ff8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static InfinitePosts.APICaller.getTrendingMovies(startingAt: Swift.Int, limit: Swift.Int, completionHandler: (Swift.Result&lt;(Swift.Array&lt;InfinitePosts.TrendingPostsModel&gt;, Swift.Bool), InfinitePosts.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InfinitePosts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anshuvij/Documents/Swift/InfiniteScroll/InfinitePosts/Networking/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "3D45ECA0-C979-4B62-94CA-7C60C37ED40B - 35907ad786209ff8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static InfinitePosts.APICaller.getTrendingMovies(startingAt: Swift.Int, limit: Swift.Int, completionHandler: (Swift.Result&lt;(Swift.Array&lt;InfinitePosts.TrendingPostsModel&gt;, Swift.Bool), InfinitePosts.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InfinitePosts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anshuvij/Documents/Swift/InfiniteScroll/InfinitePosts/Networking/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0399ABB4-0FC2-45E9-80E5-84B7C6C2C5A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfinitePosts/Networking/APICaller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getTrendingMovies(startingAt:limit:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0399ABB4-0FC2-45E9-80E5-84B7C6C2C5A3 - eaba242f81d29f54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static InfinitePosts.APICaller.getTrendingMovies(startingAt: Swift.Int, limit: Swift.Int, completionHandler: (Swift.Result&lt;Swift.Array&lt;InfinitePosts.TrendingPostsModel&gt;, InfinitePosts.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InfinitePosts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anshuvij/Documents/Swift/InfiniteScroll/InfinitePosts/Networking/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  uuid = "0399ABB4-0FC2-45E9-80E5-84B7C6C2C5A3 - 35907ad786209e9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static InfinitePosts.APICaller.getTrendingMovies(startingAt: Swift.Int, limit: Swift.Int, completionHandler: (Swift.Result&lt;(Swift.Array&lt;InfinitePosts.TrendingPostsModel&gt;, Swift.Bool), InfinitePosts.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InfinitePosts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anshuvij/Documents/Swift/InfiniteScroll/InfinitePosts/Networking/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "600">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B22760C4-E195-431E-B30B-65F710BA2A83"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfinitePosts/ViewModels/MainViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B22760C4-E195-431E-B30B-65F710BA2A83 - 8888aa87f7d37908"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;InfinitePosts.TrendingPostsModel&gt;, InfinitePosts.NetworkError&gt;) -&gt; () in InfinitePosts.MainViewModel.getData() -&gt; ()"
+                  moduleName = "InfinitePosts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anshuvij/Documents/Swift/InfiniteScroll/InfinitePosts/ViewModels/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "680">
+               </Location>
+               <Location
+                  uuid = "B22760C4-E195-431E-B30B-65F710BA2A83 - de308b03f2d6424f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;(Swift.Array&lt;InfinitePosts.TrendingPostsModel&gt;, Swift.Bool), InfinitePosts.NetworkError&gt;) -&gt; () in InfinitePosts.MainViewModel.getData() -&gt; ()"
+                  moduleName = "InfinitePosts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anshuvij/Documents/Swift/InfiniteScroll/InfinitePosts/ViewModels/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "788">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CBCC25F-7DFA-46CE-A003-FE417F0E9744"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfinitePosts/ViewModels/MainViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
